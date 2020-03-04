@@ -1,0 +1,78 @@
+.c1{
+  text-align: center;
+  color: black;
+  font-size: 3em;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  }
+  
+.t1{
+  font-weight: bold;
+  color: black;
+  padding: 5px;
+  width: 100%;
+  border-radius: 10px;
+  max-width: 700px;
+  text-shadow:2px 2px 8px #1c1b18;
+}
+
+.t2{
+  font-weight: bolder;
+  color: brown;
+  text-shadow:2px 2px 8px #1c1b18;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.tagl{
+  font-size: 1.2em;
+  font-family: 'Permanent Marker', cursive;
+  
+}
+
+.drpp{
+  background-color: black!important;
+  color: white!important;
+}
+.drp{
+  color: whitesmoke;
+  border-radius: 5px;
+}
+.drp:hover{
+  background-color: silver;
+}
+.drpp{
+  background-color: black!important;
+  color: white!important;
+}
+.drp{
+  color: whitesmoke;
+  border-radius: 5px;
+}
+.drp:hover{
+  background-color: silver;
+}
+
+.drpd{
+  color: rgba(0,0,0,0.8)!important;
+  background-color: white!important;
+  border-radius: 2px;
+  font-weight: bold;
+}
+
+.colll{
+    background-image: url("../image/nav.jpg");
+  }
+  
+.footer{
+  background-image: url("../image/nav.jpg");
+  color: aliceblue;
+}
+.footer a{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+}
+.footer a:hover{
+  color: white;
+  transition: 0.3s;
+}
